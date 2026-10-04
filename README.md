@@ -1,6 +1,8 @@
 ## About The Project
 
-OZZ modding tool - simple tool for getting il2cpp encrypted exports and more soon...
+![https://raw.githubusercontent.com/Oze-py/OZZ-Modding-Tool/refs/heads/main/img/image.png](https://raw.githubusercontent.com/Oze-py/OZZ-Modding-Tool/refs/heads/main/img/image.png)
+
+Its simple tool for getting il2cpp encrypted exports and more soon...
 ### Installation
 
 1. Install Python
