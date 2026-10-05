@@ -3,9 +3,9 @@
 ![https://raw.githubusercontent.com/Oze-py/OZZ-Modding-Tool/refs/heads/main/img/image.png](https://raw.githubusercontent.com/Oze-py/OZZ-Modding-Tool/refs/heads/main/img/image.png)
 
 Its simple tool for getting il2cpp encrypted exports and more soon...
-## License
+## Features
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- Pulling encrypted exports from libil2cpp.so
 
 
 ## Installation
@@ -28,7 +28,7 @@ Its simple tool for getting il2cpp encrypted exports and more soon...
 ## Suggestions
 
 You can suggest new features by [adding issue](https://github.com/Oze-py/OZZ-Modding-Tool/issues/new) with Suggestion label
-## Features
+## License
 
-- Pulling encrypted exports from libil2cpp.so
+[MIT](https://choosealicense.com/licenses/mit/)
 
