@@ -3,7 +3,12 @@
 ![https://raw.githubusercontent.com/Oze-py/OZZ-Modding-Tool/refs/heads/main/img/image.png](https://raw.githubusercontent.com/Oze-py/OZZ-Modding-Tool/refs/heads/main/img/image.png)
 
 Its simple tool for getting il2cpp encrypted exports and more soon...
-### Installation
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Installation
 
 1. Install Python
    ```sh
@@ -13,7 +18,17 @@ Its simple tool for getting il2cpp encrypted exports and more soon...
    ```sh
    pip install tkinter
    ```
-3. Install source code or .exe from releases
-## License
+3. Install/Clone source code or .exe from releases
+   ```sh
+   git clone Oze-py/OZZ-Modding-Tool
+   ```
 
-Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+4. Run programm by double click
+    
+## Suggestions
+
+You can suggest new features by [adding issue](https://github.com/Oze-py/OZZ-Modding-Tool/issues/new) with Suggestion label
+## Features
+
+- Pulling encrypted exports from libil2cpp.so
+
